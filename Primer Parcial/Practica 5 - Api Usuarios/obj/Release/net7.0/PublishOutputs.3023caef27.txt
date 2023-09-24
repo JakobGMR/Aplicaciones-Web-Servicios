@@ -1,0 +1,15 @@
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Primer Parcial\Practica 5 - Api Usuarios\publish\Practica 5.exe
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Primer Parcial\Practica 5 - Api Usuarios\publish\appsettings.Development.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Primer Parcial\Practica 5 - Api Usuarios\publish\appsettings.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Primer Parcial\Practica 5 - Api Usuarios\publish\Infrastructure\Data\javerages.library.data.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Primer Parcial\Practica 5 - Api Usuarios\publish\Practica 5.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Primer Parcial\Practica 5 - Api Usuarios\publish\Practica 5.deps.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Primer Parcial\Practica 5 - Api Usuarios\publish\Practica 5.runtimeconfig.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Primer Parcial\Practica 5 - Api Usuarios\publish\Practica 5.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Primer Parcial\Practica 5 - Api Usuarios\publish\AutoMapper.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Primer Parcial\Practica 5 - Api Usuarios\publish\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Primer Parcial\Practica 5 - Api Usuarios\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Primer Parcial\Practica 5 - Api Usuarios\publish\Microsoft.OpenApi.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Primer Parcial\Practica 5 - Api Usuarios\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Primer Parcial\Practica 5 - Api Usuarios\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Primer Parcial\Practica 5 - Api Usuarios\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
