@@ -1,0 +1,53 @@
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Practica Mangas.exe
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\appsettings.Development.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\appsettings.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Infrastructure\Data\javerages.library.data.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Practica Mangas.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Practica Mangas.runtimeconfig.json
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Practica Mangas.pdb
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\AutoMapper.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Azure.Core.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Azure.Identity.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Microsoft.Data.SqlClient.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Microsoft.Identity.Client.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Microsoft.OpenApi.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Microsoft.SqlServer.Server.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\System.Configuration.ConfigurationManager.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\System.Drawing.Common.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\System.Memory.Data.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\System.Runtime.Caching.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\System.Security.Permissions.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\System.Windows.Extensions.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Jacobo Gonzalez\Documents\UTM\Cuarto Cuatrimestre\Api\Practicas\Primer Parcial\Practica Mangas\publish\Practica Mangas.deps.json
