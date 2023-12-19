@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Examen Parcial 2.props" />
+</Project>
